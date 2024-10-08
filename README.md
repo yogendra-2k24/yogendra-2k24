@@ -12,7 +12,7 @@ College Student at Priyadarshini College of Engineering, Nagpur
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yogendra-2k24&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yogendra-2k24&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
